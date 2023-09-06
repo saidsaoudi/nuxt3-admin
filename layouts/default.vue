@@ -36,10 +36,10 @@ const cookieDark = useCookie('dark-mode')
         <TwFeather class="text-red-500" type="heart" /> By
         <a
           class="text-blue-300"
-          href="https://github.com/WailanTirajoh"
+          href="https://github.com/saidsaoudi"
           target="_blank"
         >
-          Wailan
+          Essaoudi
         </a>
       </div>
     </div>
